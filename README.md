@@ -3,7 +3,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║   🛒  SHOPEE × CUBE ASIA  —  E-COMMERCE EDA & TREND REPORT          ║
+║   🛒  SHOPEE  —  E-COMMERCE EDA & TREND REPORT          ║
 ║   75,000+ SKUs · 4 Platforms · 2 Years · Python · Seaborn           ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -22,7 +22,7 @@
 
 Not another "I analyzed the Titanic dataset" project.
 
-This is a full **e-commerce intelligence workflow** — the kind Cube Asia delivers to brand clients and private equity firms every week. Starting from raw, messy, multi-platform transaction data, this notebook surfaces the insights a brand CMO or category manager actually needs to make decisions.
+This is a full **e-commerce intelligence workflow** — the kind  delivers to brand clients and private equity firms every week. Starting from raw, messy, multi-platform transaction data, this notebook surfaces the insights a brand CMO or category manager actually needs to make decisions.
 
 > **Business question answered:** *"Which categories are growing, which platforms dominate, and where are the anomalies that signal fake reviews, rating manipulation, or viral campaign spikes?"*
 
