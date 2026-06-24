@@ -137,9 +137,7 @@ shopee-eda-trend-report/
 
 ---
 
-## Resume Bullet (Copy-Paste Ready)
 
-> *Performed full EDA on 80,000+ SKU-level transactions across Shopee, Lazada, TikTok Shop, and Tokopedia — detecting rating anomalies via Z-score, review spikes via IQR, and seasonal GMV patterns that informed client promo calendars; visualized 10+ insight charts in Python (Pandas, Seaborn, Matplotlib).*
 
 ---
 
